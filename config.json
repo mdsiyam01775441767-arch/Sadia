@@ -1,6 +1,6 @@
 {
     "language": "en",
-    "keyActive": "",
+    "keyActive": "8",
     "DeveloperMode": false,
     "autoCreateDB": true,
     "notiGroup": true,
@@ -19,7 +19,7 @@
     "BOTNAME": "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100000478146113",
+        "61583198381968",
         "61576520552554",
         "61550035211214"
     ],
